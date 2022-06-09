@@ -1,0 +1,21 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package practica_herencia;
+
+/**
+ *
+ * @author Pablo
+ */
+public enum Estudios {
+    Doctorado, 
+    Postgrado,
+    Universitario,
+    FP_Superior,
+    FP_Medio, 
+    Bachillerato,
+    NoValido,
+    Otros
+    
+}
